@@ -25,7 +25,7 @@ GITHUB INTRO PAGE
 ### Programming Profiles :
 
 
-<img align="left" alt="harshita-shetty | Twitter" width="25px" src="https://github.com/JayeshShelar/JayeshShelar/blob/master/assets/web.png" /> GFG : [shettyharshita](https://auth.geeksforgeeks.org/user/shettyharshita08/profile)
+<img align="left" alt="harshita-shetty | Twitter" width="25px" src="https://github.com/JayeshShelar/JayeshShelar/blob/master/assets/web.png" /> GFG : [shettyharshita](https://www.geeksforgeeks.org/user/harshitashetty08/)
 
 </br>
 
