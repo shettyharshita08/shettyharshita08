@@ -1,5 +1,3 @@
-# shettyharshita
-GITHUB INTRO PAGE
 ## Hi there 👋 I'm Harshita !
 
 - 🔭 I’m currently working as a Backend Developer.
