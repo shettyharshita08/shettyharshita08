@@ -7,11 +7,11 @@
 
 <br>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shettyharshita&&show_icons=true" alt="Harshita's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shettyharshita08&&show_icons=true" alt="Harshita's Github Stats">
 </p>
 <br>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shettyharshita" alt="Harshita's Top Languages">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shettyharshita08" alt="Harshita's Top Languages">
 </p>
 <br>
 
